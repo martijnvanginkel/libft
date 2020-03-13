@@ -1,5 +1,5 @@
 # Libft
 
-Libft is a C library for basic C functions.
+Libft is a C library consisting of basic functions.
 
 
